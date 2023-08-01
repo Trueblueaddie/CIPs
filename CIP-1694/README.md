@@ -106,6 +106,85 @@ to this CIP, and for their active championing of Cardano's vision for minimal vi
 * Tsz Wai Wu
 </details>
 
+<details>
+  <summary><strong>2023 Mexico City, Mexico Workshop (20/05)</strong></summary>
+
+In addition, we would like to thank all the attendees of the workshop that was held in Mexico City, Mexico on May 20th 2023 for their valuable contributions
+to this CIP, and for their active championing of Cardano's vision for minimal viable governance.  These include:
+
+* Donovan Riaño
+* Cristian Jair Rojas
+* Victor Hernández
+* Ramón Aceves
+* Sergio Andrés Cortés
+* Isaías Alejandro Galván
+* Abigail Guzmán
+* Jorge Fernando Murguía
+* Luis Guillermo Santana
+
+</details>
+
+<details>
+  <summary><strong>2023 Buenos Aires, Argentina Workshop (20/05)</strong></summary>
+
+In addition, we would like to thank all the attendees of the workshop that was held in Buenos Aires, Argentina on May 20th 2023 for their valuable contributions
+to this CIP, and for their active championing of Cardano's vision for minimal viable governance.  These include:
+
+* Lucas Macchiavelli
+* Alejando Pestchanker
+* Juan Manuel Castro Pippo
+* Federico Weill
+* Jose Otegui
+* Mercedes Ruggeri
+* Mauro Andreoli
+* Elias Aires
+* Jorge Nasanovsky
+* Ulises Barreiro
+* Martin Ochoa
+* Facundo Lopez
+* Vanina Estrugo
+* Luca Pestchanker
+
+</details>
+
+<details>
+  <summary><strong>2023 Bogota, Colombia Workshop (27/05)</strong></summary>
+
+In addition, we would like to thank all the attendees of the workshop that was held in Bogota, Colombia on May 27th 2023 for their valuable contributions
+to this CIP, and for their active championing of Cardano's vision for minimal viable governance.  These include:
+
+* Alvaro Moncada
+* Jaime Andres Posada Castro
+* Jose Miguel De Gamboa
+* Nicolas Gomez
+* Luis Restrepo (Moxie)
+* Juanita Jaramillo R.
+* Daniel Vanegas
+* Ernesto Rafael Pabon Moreno
+* Carlos Eduardo Escobar
+* Manuel Fernando Briceño
+* Sebastian Pabon
+
+</details>
+
+<details>
+  <summary><strong>2023 Manizales, Colombia Workshop (27/05)</strong></summary>
+
+In addition, we would like to thank all the attendees of the workshop that was held in Manizales, Colombia on May 27th 2023 for their valuable contributions
+to this CIP, and for their active championing of Cardano's vision for minimal viable governance.  These include:
+
+* Yaris Cruz
+* Yaneth Duarte
+* Ciro Gelvez
+* Kevin Chacon
+* Juan Sierra
+* Caue Chianca
+* Hope R.
+* Sonia Malagon
+* Facundo Ramirez
+
+</details>
+
 ## Motivation: why is this CIP necessary?
 
 + [Goal](#goal)
